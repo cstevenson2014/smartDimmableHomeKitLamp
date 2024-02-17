@@ -1,4 +1,4 @@
-# smartDimmableHomeKitLamp
+# HomeKit Dimmable AC Lamp
 HomeKit connected dimmable AC bulb
 
 # Requirements
